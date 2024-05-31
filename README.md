@@ -8,8 +8,14 @@
 <li>Indica sua classificação de acordo com seu IMC</li>
 <li>Indica seu grau de acordo com seu IMC</li>
 </ul>
-<h2>Instalação</h2>
-![IMC1](https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/495d1345-1cda-49e8-ae7a-255f5146c39c)
+<h2>Design Mobile</h2>
+<div align="center">
+<img src="https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/495d1345-1cda-49e8-ae7a-255f5146c39c" width="150px" />
+</div>
+<h2>Design MIT</h2>
+<div align="center">
+<img src="https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/495d1345-1cda-49e8-ae7a-255f5146c39c" width="150px" />
+</div>
 <p>Instruções sobre como instalar ou configurar o projeto localmente.</p>
 <pre><code>git clone https://github.com/seu-usuario/nome-do-projeto.git</code></pre>
 <h2>Contribuição</h2>
