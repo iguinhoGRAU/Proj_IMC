@@ -9,7 +9,7 @@
 <li>Indica seu grau de acordo com seu IMC</li>
 </ul>
 <h2>Instalação</h2>
-<img src="IMC1.jpg">
+![IMC1](https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/495d1345-1cda-49e8-ae7a-255f5146c39c)
 <p>Instruções sobre como instalar ou configurar o projeto localmente.</p>
 <pre><code>git clone https://github.com/seu-usuario/nome-do-projeto.git</code></pre>
 <h2>Contribuição</h2>
