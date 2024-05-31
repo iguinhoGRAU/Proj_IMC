@@ -12,14 +12,12 @@
 <div align="center">
 <img src="https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/495d1345-1cda-49e8-ae7a-255f5146c39c" width="150px" />
 </div>
+<p>O design mobile do aplicativo foi criado para proporcionar uma experiência otimizada em dispositivos móveis, garantindo fácil acesso e usabilidade em telas menores.</p>
 <h2>Design MIT</h2>
 <div align="center">
-<img src="https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/495d1345-1cda-49e8-ae7a-255f5146c39c" width="150px" />
+<img src="https://github.com/iguinhoGRAU/Proj_IMC/assets/164346454/465730e4-58a6-488c-a4c0-e14b81df5ba5" width="180px" />
 </div>
-<p>Instruções sobre como instalar ou configurar o projeto localmente.</p>
-<pre><code>git clone https://github.com/seu-usuario/nome-do-projeto.git</code></pre>
-<h2>Contribuição</h2>
-<p>Instruções sobre como outros desenvolvedores podem contribuir para o projeto.</p>
-<pre><code>git checkout -b feature/nova-feature</code></pre>
-<h2>Licença</h2>
-<p>Este projeto é licenciado sob a <a href="https://opensource.org/licenses/MIT">Licença MIT</a>.
+<p>O design do MIT mostra como irá ficar em dispositivos móveis.</p>
+
+
+
